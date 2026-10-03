@@ -1,0 +1,6 @@
+This is a dummy file to inform CTGAN to stop training after the current model.
+
+Instructions
+============
+ - To instruct stop - change the file name to STOP
+ - To instruct continue - change the file name to anything other than STOP.txt e.g. CONTINUE.txt.

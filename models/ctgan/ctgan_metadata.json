@@ -1,0 +1,455 @@
+{
+    "tables": {
+        "credit": {
+            "columns": {
+                "AMT_INCOME_TOTAL": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "AMT_CREDIT": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "AMT_ANNUITY": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "AMT_GOODS_PRICE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "REGION_POPULATION_RELATIVE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "DAYS_REGISTRATION": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "OWN_CAR_AGE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "CNT_FAM_MEMBERS": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "EXT_SOURCE_1": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "EXT_SOURCE_2": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "EXT_SOURCE_3": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "APARTMENTS_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "BASEMENTAREA_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "YEARS_BEGINEXPLUATATION_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "YEARS_BUILD_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "COMMONAREA_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "ELEVATORS_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "ENTRANCES_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "FLOORSMAX_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "FLOORSMIN_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "LANDAREA_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "LIVINGAPARTMENTS_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "LIVINGAREA_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "NONLIVINGAPARTMENTS_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "NONLIVINGAREA_AVG": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "APARTMENTS_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "BASEMENTAREA_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "YEARS_BEGINEXPLUATATION_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "YEARS_BUILD_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "COMMONAREA_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "ELEVATORS_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "ENTRANCES_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "FLOORSMAX_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "FLOORSMIN_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "LANDAREA_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "LIVINGAPARTMENTS_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "LIVINGAREA_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "NONLIVINGAPARTMENTS_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "NONLIVINGAREA_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "APARTMENTS_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "BASEMENTAREA_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "YEARS_BEGINEXPLUATATION_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "YEARS_BUILD_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "COMMONAREA_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "ELEVATORS_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "ENTRANCES_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "FLOORSMAX_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "FLOORSMIN_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "LANDAREA_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "LIVINGAPARTMENTS_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "LIVINGAREA_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "NONLIVINGAPARTMENTS_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "NONLIVINGAREA_MEDI": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "TOTALAREA_MODE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "OBS_30_CNT_SOCIAL_CIRCLE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "DEF_30_CNT_SOCIAL_CIRCLE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "OBS_60_CNT_SOCIAL_CIRCLE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "DEF_60_CNT_SOCIAL_CIRCLE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "DAYS_LAST_PHONE_CHANGE": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "AMT_REQ_CREDIT_BUREAU_HOUR": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "AMT_REQ_CREDIT_BUREAU_DAY": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "AMT_REQ_CREDIT_BUREAU_WEEK": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "AMT_REQ_CREDIT_BUREAU_MON": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "AMT_REQ_CREDIT_BUREAU_QRT": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "AMT_REQ_CREDIT_BUREAU_YEAR": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Float"
+                },
+                "NAME_CONTRACT_TYPE": {
+                    "sdtype": "boolean"
+                },
+                "CODE_GENDER": {
+                    "sdtype": "categorical"
+                },
+                "FLAG_OWN_CAR": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_OWN_REALTY": {
+                    "sdtype": "boolean"
+                },
+                "CNT_CHILDREN": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Int64"
+                },
+                "NAME_TYPE_SUITE": {
+                    "sdtype": "categorical"
+                },
+                "NAME_INCOME_TYPE": {
+                    "sdtype": "categorical"
+                },
+                "NAME_EDUCATION_TYPE": {
+                    "sdtype": "categorical"
+                },
+                "NAME_FAMILY_STATUS": {
+                    "sdtype": "categorical"
+                },
+                "NAME_HOUSING_TYPE": {
+                    "sdtype": "categorical"
+                },
+                "DAYS_BIRTH": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Int64"
+                },
+                "DAYS_EMPLOYED": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Int64"
+                },
+                "DAYS_ID_PUBLISH": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Int64"
+                },
+                "FLAG_MOBIL": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_EMP_PHONE": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_WORK_PHONE": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_CONT_MOBILE": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_PHONE": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_EMAIL": {
+                    "sdtype": "boolean"
+                },
+                "OCCUPATION_TYPE": {
+                    "sdtype": "categorical"
+                },
+                "REGION_RATING_CLIENT": {
+                    "sdtype": "categorical"
+                },
+                "REGION_RATING_CLIENT_W_CITY": {
+                    "sdtype": "categorical"
+                },
+                "WEEKDAY_APPR_PROCESS_START": {
+                    "sdtype": "categorical"
+                },
+                "HOUR_APPR_PROCESS_START": {
+                    "sdtype": "numerical",
+                    "computer_representation": "Int64"
+                },
+                "REG_REGION_NOT_LIVE_REGION": {
+                    "sdtype": "boolean"
+                },
+                "REG_REGION_NOT_WORK_REGION": {
+                    "sdtype": "boolean"
+                },
+                "LIVE_REGION_NOT_WORK_REGION": {
+                    "sdtype": "boolean"
+                },
+                "REG_CITY_NOT_LIVE_CITY": {
+                    "sdtype": "boolean"
+                },
+                "REG_CITY_NOT_WORK_CITY": {
+                    "sdtype": "boolean"
+                },
+                "LIVE_CITY_NOT_WORK_CITY": {
+                    "sdtype": "boolean"
+                },
+                "ORGANIZATION_TYPE": {
+                    "sdtype": "categorical"
+                },
+                "FONDKAPREMONT_MODE": {
+                    "sdtype": "categorical"
+                },
+                "HOUSETYPE_MODE": {
+                    "sdtype": "categorical"
+                },
+                "WALLSMATERIAL_MODE": {
+                    "sdtype": "categorical"
+                },
+                "EMERGENCYSTATE_MODE": {
+                    "sdtype": "categorical"
+                },
+                "FLAG_DOCUMENT_2": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_3": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_4": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_5": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_6": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_7": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_8": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_9": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_10": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_11": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_12": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_13": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_14": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_15": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_16": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_17": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_18": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_19": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_20": {
+                    "sdtype": "boolean"
+                },
+                "FLAG_DOCUMENT_21": {
+                    "sdtype": "boolean"
+                },
+                "AMT_REQ_CREDIT_BUREAU_MISSING": {
+                    "sdtype": "boolean"
+                },
+                "EXT_SOURCE_1_MISSING": {
+                    "sdtype": "boolean"
+                },
+                "EXT_SOURCE_3_MISSING": {
+                    "sdtype": "boolean"
+                },
+                "OWN_CAR_AGE_MISSING": {
+                    "sdtype": "boolean"
+                },
+                "STATS_MISSING": {
+                    "sdtype": "boolean"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}

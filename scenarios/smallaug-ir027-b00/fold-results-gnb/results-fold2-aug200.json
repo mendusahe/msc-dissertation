@@ -1,0 +1,22 @@
+{
+    "threshold_tuning_runtime": 0.010367184999631717,
+    "best_threshold": 0.98,
+    "best_f1": 0.06994937873907041,
+    "best_rec": 0.9559748427672956,
+    "best_pr": 0.03630284213040363,
+    "pr_auc": 0.03658867615877282,
+    "roc_auc": 0.5136112655827864,
+    "log_loss": 32.30243852486615,
+    "n_train": 17874,
+    "nominal_ir": 27,
+    "augmentation_pct": 200,
+    "fold_number": 2,
+    "n_neg_real": 17235,
+    "n_pos_real": 639,
+    "n_synthetic": 1594,
+    "n_train_aug": 19468,
+    "n_train_aug_neg": 17235,
+    "n_train_aug_pos": 2233,
+    "augmented_ir": 7.718316166592029,
+    "fit_runtime": 0.0016815716672378281
+}

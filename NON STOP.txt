@@ -1,0 +1,1 @@
+This file can be used to halt XGBoost or Gaussian naive Bayes training loops. To halt training, rename the file to STOP.txt. If STOP.txt is found, training will terminate.

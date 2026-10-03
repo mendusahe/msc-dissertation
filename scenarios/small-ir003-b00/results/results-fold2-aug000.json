@@ -1,0 +1,14 @@
+{
+    "n_estimators": 800,
+    "early_stopping_rounds": 100,
+    "best_iteration": 324,
+    "pr_auc": 0.49405012892099304,
+    "roc_auc": 0.7378382486875068,
+    "log_loss": 0.5037537166034184,
+    "fit_runtime": 0.05856921166656927,
+    "threshold_tuning_runtime": 0.0066698449998511935,
+    "best_threshold": 0.33,
+    "best_f1": 0.508674531575295,
+    "best_rec": 0.6562220232766338,
+    "best_pr": 0.41529745042492916
+}

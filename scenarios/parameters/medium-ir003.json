@@ -1,0 +1,14 @@
+{
+    "n_folds": 4,
+    "size": 44684,
+    "ir": 3.0,
+    "best_params": {
+        "scale_pos_weight": 1.5,
+        "min_child_weight": 5,
+        "max_depth": 6,
+        "gamma": 5
+    },
+    "best_pr_auc": 0.5020627859338884,
+    "best_roc_auc": 0.5020627859338884,
+    "rs_runtime": 3.5912941400000515
+}

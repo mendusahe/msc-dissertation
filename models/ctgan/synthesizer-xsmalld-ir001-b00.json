@@ -1,0 +1,29 @@
+{
+    "enforce_min_max_values": true,
+    "enforce_rounding": true,
+    "locales": [
+        "en_US"
+    ],
+    "embedding_dim": 64,
+    "generator_dim": [
+        128,
+        128
+    ],
+    "discriminator_dim": [
+        128,
+        128
+    ],
+    "generator_lr": 0.0001,
+    "generator_decay": 1e-06,
+    "discriminator_lr": 0.0003,
+    "discriminator_decay": 1e-06,
+    "batch_size": 120,
+    "discriminator_steps": 1,
+    "log_frequency": true,
+    "verbose": true,
+    "epochs": 400,
+    "pac": 10,
+    "enable_gpu": true,
+    "runtime": 1.1582008849999208,
+    "n_samples": 50
+}
