@@ -18,3 +18,6 @@ This repository contains the code, notebooks, figures, and final dissertation fo
 
 ## Caution
 This repository is intended primarily for viewing and contains large models and data files. Therefore, cloning may be slow.
+
+## Source data
+The source data file exceeds the maximum size limit for GitHub. It is available in Releases and from Kaggle https://www.kaggle.com/competitions/home-credit-default-risk.
