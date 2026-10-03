@@ -15,6 +15,7 @@ This repository contains the code, notebooks, figures, and final dissertation fo
 - `plots/` - All figures included in the dissertation.
 - `results`/ - Collated evaluation raw results from all experiments
 - `NON STOP.txt` - File which can be renamed to `STOP.txt` to exit from long running training loops.
+- `requirements.txt` - Anaconda-style packages installed in the development environment.
 
 ## Caution
 This repository is intended primarily for viewing and contains large models and data files. Therefore, cloning may be slow.
