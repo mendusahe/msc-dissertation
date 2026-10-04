@@ -6,7 +6,7 @@ This repository contains the code, notebooks, figures, and final dissertation fo
 
 ## Structure
 
-- `dissertation.pdf` — Final submitted dissertation.
+- `DSM500 CW2 - Dissertation.pdf` — Final submitted dissertation.
 - `notebooks/` - Jupyter notebooks used for experiments and figure generation.
 - `html/` - HTML exports of notebooks for easy viewing.
 - `data/` - Processed datasets used in experiments.
